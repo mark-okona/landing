@@ -1,0 +1,7 @@
+.bttn-primary {
+display: inline-block;
+background-color: rgb(227, 105, 133);
+padding: 16px 36px;
+border-radius: 50px;
+color: white;
+}
